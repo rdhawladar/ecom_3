@@ -6,8 +6,6 @@ Current versions:
 * Codeigniter 3.1.5
 * Bootstrap 3.3.7
 
-
-GO Here for details: https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter
 We support following features:
 
 1. Bootstrap responsive
@@ -47,16 +45,6 @@ We support following features:
 * User: admin
 * Pass: admin
 
-## Screenshot
-![alt text](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/templates.png "Logo Title Text 1")
-
-## Screenshot of admin panel
-![alt text](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/admin_panel4.png "Logo Title Text 1")
-
-## How To Write Templates
-1. Every template in /application/views/templates/ folder must have this file structure:
-![alt text](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/templateFileStructure.png "Logo Title Text 1")
-
 2. Every file name is for the page that will show.
 3. Page urls are
   * / - for home page (home.php)
@@ -77,6 +65,3 @@ Shopping cart:
 1. To add article to your shopping cart add this class to your links - **add-to-cart** , if you want to redirect user after add product to shopping cart add also add **data-goto="http://..."**
 2. Variable $cartItems have all your added items
 
-## Donate:
-If this project help you reduce time to develop, you can give me a cup of coffee to continue its development :)
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W5BR6K29BQX7E)
